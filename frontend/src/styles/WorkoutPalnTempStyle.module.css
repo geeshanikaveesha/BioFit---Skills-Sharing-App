@@ -1,0 +1,33 @@
+.bodyDiv{
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    background: rgb(182, 226, 255);
+}
+
+.bodyDivPostView{
+    padding-left: 25%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.header{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-weight: bold;
+    color: rgb(0, 170, 255);
+    text-align: center;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+   
+}
+
+.rows{
+    padding-left: 1%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+}
